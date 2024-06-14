@@ -1,0 +1,9 @@
+# Ignore .env file
+.env
+
+# Add other files and directories to ignore
+node_modules/
+vendor/
+.DS_Store
+*.log
+*.cache
