@@ -137,7 +137,7 @@ function test_input($data): string
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#about">About</a>
+                        <a class="nav-link" href="index.php#about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="blog.php">Artworks</a>

@@ -48,7 +48,7 @@ if ($_SESSION['log_type'] == "0") {
     <nav class="navbar navbar-expand-lg navbar-light sticky-top bg-light" style="border-bottom: 7px #154360 solid;">
         <div class="container">
             <!-- Logo and Brand -->
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="./images/logo.png" alt="Logo" width="50" height="35">
                 <b><i>Artisan Hub</i></b>
             </a>
@@ -60,7 +60,7 @@ if ($_SESSION['log_type'] == "0") {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#about">About</a>
+                        <a class="nav-link" href="index.php#about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="blog.php">Artworks</a>

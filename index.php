@@ -32,7 +32,7 @@
     <nav class="navbar navbar-expand-lg navbar-light sticky-top bg-light" style="border-bottom: 7px #154360 solid;">
         <div class="container">
             <!-- Logo and Brand -->
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="./images/logo.png" alt="Logo" width="50" height="35">
                 <b><i>Artisan Hub</i></b>
             </a>
